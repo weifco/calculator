@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.Form1.resources
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.Properties.Resources.resources
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\лиман\лиман\bin\Debug\лиман.exe.config
+C:\Users\admin\source\repos\лиман\лиман\bin\Debug\лиман.exe
+C:\Users\admin\source\repos\лиман\лиман\bin\Debug\лиман.pdb
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.exe
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.pdb
+C:\Users\admin\source\repos\лиман\лиман\obj\Debug\лиман.exe.config
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Debug\лиман.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Debug\лиман.exe.config
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Debug\лиман.exe
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Debug\лиман.pdb

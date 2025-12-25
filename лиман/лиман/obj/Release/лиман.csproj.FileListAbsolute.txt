@@ -1,0 +1,11 @@
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\bin\Release\лиман.exe.config
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\bin\Release\лиман.exe
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\bin\Release\лиман.pdb
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.Form1.resources
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.exe
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.pdb
+C:\Users\USER\OneDrive\Desktop\лиман\лиман\obj\Release\лиман.exe.config

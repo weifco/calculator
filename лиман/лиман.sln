@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лиман", "лиман\лиман.csproj", "{F83024D2-DACB-48AD-A88E-0295FBB68677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83024D2-DACB-48AD-A88E-0295FBB68677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83024D2-DACB-48AD-A88E-0295FBB68677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83024D2-DACB-48AD-A88E-0295FBB68677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83024D2-DACB-48AD-A88E-0295FBB68677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D9229E-680C-46A7-952C-273475F0B534}
+	EndGlobalSection
+EndGlobal
